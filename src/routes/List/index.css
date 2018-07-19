@@ -1,0 +1,7 @@
+
+form .ant-pagination-options-size-changer{
+    width: auto!important;
+}
+form .ant-select, form .ant-cascader-picker{
+    width: auto!important;
+}
